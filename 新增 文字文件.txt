@@ -1,0 +1,4 @@
+--打完處存--
+git add .
+-- 打包--
+git commit -m "yourname"
